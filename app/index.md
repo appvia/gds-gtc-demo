@@ -3,16 +3,20 @@ layout: page
 title: Get Tech Certified
 ---
 
-<div class="govuk-panel govuk-panel--confirmation">
-  <h1 class="govuk-panel__title">
-    Get Tech Certified
-  </h1>
-  <div class="govuk-panel__body">
-    Following the incredible success of the Get Cloud Certified campaign last year, the Government Digital Service (GDS) is back with an even bigger opportunity to Get Tech Certified this Autumn.
+<div style="border-left: 10px solid #ff6900; padding: 30px; margin-bottom: 30px; background-color: #f8f8f8;">
+  <div class="govuk-grid-row">
+    <div class="govuk-grid-column-one-third">
+      <img src="/get-tech-certified-logo.png" alt="Get Tech Certified logo" style="width: 100%; max-width: 250px;">
+    </div>
+    <div class="govuk-grid-column-two-thirds">
+      <p class="govuk-body-l" style="margin-top: 0;">
+        Following the incredible success of the Get Cloud Certified campaign last year, the Government Digital Service (GDS) is back with an even bigger opportunity to Get Tech Certified this Autumn.
+      </p>
+    </div>
   </div>
 </div>
 
-From 1 October 2025 to 31 December 2025, all civil and public servants can access over 200 free learning and certification pathways – from beginner to advanced – across key digital and technology areas.
+<p class="govuk-body-l">From 1 October 2025 to 31 December 2025, all civil and public servants can access over 200 free learning and certification pathways – from beginner to advanced – across key digital and technology areas.</p>
 
 This offer is made possible through partnerships with 16 leading tech providers, and it is completely free.
 
