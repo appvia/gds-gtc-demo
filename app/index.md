@@ -81,17 +81,19 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
     <style>
       .vendor-grid {
         display: grid;
-        grid-template-columns: repeat(4, 1fr);
-        gap: 20px;
-        padding: 40px 0;
+        grid-template-columns: repeat(3, 1fr);
+        gap: 60px 40px;
+        padding: 40px 20px;
+        max-width: 1000px;
+        margin: 0 auto;
       }
       .vendor-item {
         display: flex;
         flex-direction: column;
         align-items: center;
         text-align: center;
-        padding: 20px;
-        min-height: 180px;
+        justify-content: space-between;
+        min-height: 150px;
       }
       .vendor-logo-link {
         display: flex;
@@ -99,11 +101,11 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
         justify-content: center;
         height: 80px;
         width: 100%;
-        margin-bottom: 15px;
+        margin-bottom: 10px;
       }
       .vendor-logo {
-        max-width: 160px;
-        max-height: 70px;
+        max-width: 180px;
+        max-height: 80px;
         width: auto;
         height: auto;
         object-fit: contain;
@@ -111,11 +113,13 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
       @media (max-width: 768px) {
         .vendor-grid {
           grid-template-columns: repeat(2, 1fr) !important;
+          gap: 40px 30px;
         }
       }
       @media (max-width: 480px) {
         .vendor-grid {
           grid-template-columns: 1fr !important;
+          gap: 30px;
         }
       }
     </style>
