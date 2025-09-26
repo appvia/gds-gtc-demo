@@ -22,6 +22,15 @@ Whether you are just starting out or looking to deepen your expertise, there is 
 
 Thanks to last year's programme, Dionne made a successful career switch into digital. Her journey shows what is possible when you take that first step.
 
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-full">
+    <video controls width="100%" style="max-width: 600px; margin-bottom: 20px;">
+      <source src="/vmdc-learn-get-tech-certified-testimony.mp4" type="video/mp4">
+      Your browser does not support the video tag.
+    </video>
+  </div>
+</div>
+
 <div class="govuk-inset-text">
   <p>"One of the most rewarding milestones in my journey of working in Digital was completing the AWS Cloud Practitioner qualification under the Get Cloud Certified programme. This deepened my understanding of cloud computing principles and gave me the confidence to explore more advanced cloud technologies and their practical applications in the workplace."</p>
   <p><strong>Dionne Hall</strong><br>

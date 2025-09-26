@@ -14,6 +14,9 @@ export default function(eleventyConfig) {
     }
   })
 
+  // Copy video files to output
+  eleventyConfig.addPassthroughCopy('app/*.mp4')
+
   return {
     dataTemplateEngine: 'njk',
     htmlTemplateEngine: 'njk',
