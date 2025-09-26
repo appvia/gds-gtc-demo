@@ -78,7 +78,19 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-full">
-    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 30px; padding: 20px 0;">
+    <style>
+      @media (max-width: 768px) {
+        .vendor-grid {
+          grid-template-columns: repeat(2, 1fr) !important;
+        }
+      }
+      @media (max-width: 480px) {
+        .vendor-grid {
+          grid-template-columns: 1fr !important;
+        }
+      }
+    </style>
+    <div class="vendor-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 40px; padding: 20px 0;">
       
       <div style="text-align: center;">
         <a href="https://pages.awscloud.com/aws-partnership-government-digital-services-get-tech-certified.html" target="_blank">
