@@ -45,34 +45,50 @@ Get Tech Certified is for:
 - people working in digital, data and technology professions
 - people from other professions who want to learn more about tech and its potential
 
-## Areas of certification
+## Start your digital journey today!
 
-Choose from the following certification areas:
+1. **Press the buttons below to search by topic or by vendor** (both listed in alphabetical order) for the certification pathways on offer.
+2. Once on a vendor's website, **register your details using your work email address only** – only civil service or public sector email domains are eligible. If you believe you qualify, but your email is not accepted, please contact [GetTechCertified@dsit.gov.uk](mailto:GetTechCertified@dsit.gov.uk).
 
-- [Cloud & Platform Technologies](/posts/cloud-platform/)
-- [Cyber Security](/posts/cyber-security/)
-- [Data](/posts/data/)
-- [FinOps](/posts/finops/)
-- [Machine Learning & Artificial Intelligence](/posts/machine-learning-ai/)
-- [Quantum Computing](/posts/quantum-computing/)
-- [Software Engineering](/posts/software-engineering/)
+### By topic
 
-## Our vendor partners
+<div class="govuk-button-group">
+  <a href="/posts/cloud-platform/" class="govuk-button govuk-button--secondary">Cloud & Platform Technologies</a>
+  <a href="/posts/cyber-security/" class="govuk-button govuk-button--secondary">Cyber Security</a>
+  <a href="/posts/data/" class="govuk-button govuk-button--secondary">Data</a>
+  <a href="/posts/finops/" class="govuk-button govuk-button--secondary">FinOps</a>
+  <a href="/posts/machine-learning-ai/" class="govuk-button govuk-button--secondary">Machine Learning & Artificial Intelligence</a>
+  <a href="/posts/quantum-computing/" class="govuk-button govuk-button--secondary">Quantum Computing</a>
+  <a href="/posts/software-engineering/" class="govuk-button govuk-button--secondary">Software Engineering</a>
+</div>
 
-We've partnered with leading technology vendors to provide free access to their certification programmes:
+### By vendor
 
-- **AWS** - Amazon Web Services cloud certifications
-- **Google** - Google Cloud Platform certifications
-- **HashiCorp** - Infrastructure automation tools
-- **IBM** - Cloud, AI and quantum computing certifications
-- **Microsoft** - Azure cloud certifications
-- **MongoDB** - Database certifications
-- **Oracle** - Cloud and database certifications
-- **Salesforce** - CRM and platform certifications
-- **ServiceNow** - Digital workflow certifications
-- **Snowflake** - Data platform certifications
-- **STFC Hartree Centre** - Advanced computing training
-- **WSO2** - API and integration certifications
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-one-half">
+    <ul class="govuk-list">
+      <li><a href="https://pages.awscloud.com/aws-partnership-government-digital-services-get-tech-certified.html" class="govuk-link govuk-!-font-weight-bold">AWS</a> - Amazon Web Services cloud certifications</li>
+      <li><a href="https://discover.confluent.io/0d989e" class="govuk-link govuk-!-font-weight-bold">Confluent</a> - Data streaming platform</li>
+      <li><a href="https://events.databricks.com/training-uk-gov-get-tech-certified" class="govuk-link govuk-!-font-weight-bold">Databricks</a> - Data and AI platform</li>
+      <li><a href="https://rsvp.withgoogle.com/events/google-cloud-get-tech-certified" class="govuk-link govuk-!-font-weight-bold">Google</a> - Google Cloud Platform certifications</li>
+      <li><a href="https://www.hashicorp.com/campaign/24q4-emea-ukic-gds-skill-up-campaign" class="govuk-link govuk-!-font-weight-bold">HashiCorp</a> - Infrastructure automation tools</li>
+      <li><a href="https://livesend.ibm.com/i/V0WIDS6CLW7XFtll8MaWCjvN5___aqr7NVdOTc04PPLUSSIGNWqt34kEatTLdXgtfZoqX7PLUSSIGNfbgqlHaueW5QUQlZEfFTxIw8QTCzWkbXqIkygMKT___2apEEQUALSIGN" class="govuk-link govuk-!-font-weight-bold">IBM</a> - Cloud, AI and quantum computing</li>
+      <li><a href="https://c4b-integration.com/elevate" class="govuk-link govuk-!-font-weight-bold">Meta</a> - Llama AI model training</li>
+      <li><a href="https://www.microsoft.com/en-gb/business/get-tech-certified" class="govuk-link govuk-!-font-weight-bold">Microsoft</a> - Azure cloud certifications</li>
+    </ul>
+  </div>
+  <div class="govuk-grid-column-one-half">
+    <ul class="govuk-list">
+      <li><a href="https://www.mongodb.com/resources/webinars/mongodb-and-google-public-sector/get-tech-certified-with-mongodb" class="govuk-link govuk-!-font-weight-bold">MongoDB</a> - Database certifications</li>
+      <li><a href="https://education.oracle.com/ukgovtcddo" class="govuk-link govuk-!-font-weight-bold">Oracle</a> - Cloud and database certifications</li>
+      <li><a href="https://view.salesforce.com/viewer/1a2333fe89b26207240d8bc21c3d13fe#os2loc68wo" class="govuk-link govuk-!-font-weight-bold">Salesforce</a> - CRM and platform certifications</li>
+      <li><a href="https://learning.servicenow.com/now/lxp/home" class="govuk-link govuk-!-font-weight-bold">ServiceNow</a> - Digital workflow certifications</li>
+      <li><a href="https://www.snowflake.com/en/lp/GDS_Get_Tech_Certified_Programme/" class="govuk-link govuk-!-font-weight-bold">Snowflake</a> - Data platform certifications</li>
+      <li><a href="https://hartreetraining.stfc.ac.uk/moodle/local/hartree/index.php" class="govuk-link govuk-!-font-weight-bold">STFC Hartree Centre</a> - Advanced computing training</li>
+      <li><a href="https://wso2.com/training/certification/gov-uk/" class="govuk-link govuk-!-font-weight-bold">WSO2</a> - API and integration certifications</li>
+    </ul>
+  </div>
+</div>
 
 ## How to get started
 
