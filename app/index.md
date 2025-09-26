@@ -3,7 +3,7 @@ layout: page
 title: Get Tech Certified
 ---
 
-<div style="border-left: 10px solid #ff6900; padding: 30px; margin-bottom: 30px; background-color: #f8f8f8;">
+<div style="border: 3px solid #ff6900; padding: 40px; margin-bottom: 30px; background-color: white;">
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-third">
       <img src="/get-tech-certified-logo.png" alt="Get Tech Certified logo" style="width: 100%; max-width: 250px;">
@@ -14,13 +14,13 @@ title: Get Tech Certified
       </p>
     </div>
   </div>
+  
+  <p class="govuk-body">From 1 October 2025 to 31 December 2025, all civil and public servants can access over 200 free learning and certification pathways – from beginner to advanced – across key digital and technology areas.</p>
+  
+  <p class="govuk-body">This offer is made possible through partnerships with 16 leading tech providers, and it is completely free.</p>
+  
+  <p class="govuk-body">Whether you are just starting out or looking to deepen your expertise, there is something here for you.</p>
 </div>
-
-<p class="govuk-body-l">From 1 October 2025 to 31 December 2025, all civil and public servants can access over 200 free learning and certification pathways – from beginner to advanced – across key digital and technology areas.</p>
-
-This offer is made possible through partnerships with 16 leading tech providers, and it is completely free.
-
-Whether you are just starting out or looking to deepen your expertise, there is something here for you.
 
 ## Real stories, real impact
 
