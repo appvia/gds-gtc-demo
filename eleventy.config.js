@@ -14,8 +14,9 @@ export default function(eleventyConfig) {
     }
   })
 
-  // Copy video files to output
+  // Copy video and image files to output
   eleventyConfig.addPassthroughCopy('app/*.mp4')
+  eleventyConfig.addPassthroughCopy('app/*.png')
 
   return {
     dataTemplateEngine: 'njk',

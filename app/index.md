@@ -45,10 +45,18 @@ Get Tech Certified is for:
 - people working in digital, data and technology professions
 - people from other professions who want to learn more about tech and its potential
 
+Don't miss this chance to boost your digital skills, earn industry-recognised certifications, and help shape the future of public service.
+
 ## Start your digital journey today!
 
 1. **Press the buttons below to search by topic or by vendor** (both listed in alphabetical order) for the certification pathways on offer.
 2. Once on a vendor's website, **register your details using your work email address only** – only civil service or public sector email domains are eligible. If you believe you qualify, but your email is not accepted, please contact [GetTechCertified@dsit.gov.uk](mailto:GetTechCertified@dsit.gov.uk).
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-full" style="text-align: center; margin: 30px 0;">
+    <img src="/get-tech-certified-logo.png" alt="Get Tech Certified logo with orange connecting dots" style="max-width: 500px; width: 100%; height: auto;">
+  </div>
+</div>
 
 ### By topic
 
