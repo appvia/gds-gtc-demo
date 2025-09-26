@@ -1,0 +1,40 @@
+---
+layout: base
+---
+
+<div class="govuk-grid-row">
+  <div class="govuk-grid-column-two-thirds">
+    <h1 class="govuk-heading-xl">{{ title }}</h1>
+    {{ content | safe }}
+  </div>
+  <div class="govuk-grid-column-one-third">
+    <aside class="govuk-!-padding-top-4">
+      <h2 class="govuk-heading-s">In this section</h2>
+      <nav aria-label="Section navigation">
+        <ul class="govuk-list">
+          <li>
+            <span class="govuk-body-s">Learn</span>
+            <ul class="govuk-list govuk-!-margin-left-2">
+              <li class="govuk-body-s"><a href="/index.html" class="govuk-link">Get Tech Certified</a></li>
+              <li class="govuk-body-s govuk-!-margin-left-3">
+                <ul class="govuk-list">
+                  <li><a href="/posts/cloud-platform/" class="govuk-link {% if page.url == '/posts/cloud-platform/' %}govuk-!-font-weight-bold{% endif %}">Cloud & Platform Technologies</a></li>
+                  <li><a href="/posts/cyber-security/" class="govuk-link {% if page.url == '/posts/cyber-security/' %}govuk-!-font-weight-bold{% endif %}">Cyber Security</a></li>
+                  <li><a href="/posts/data/" class="govuk-link {% if page.url == '/posts/data/' %}govuk-!-font-weight-bold{% endif %}">Data</a></li>
+                  <li><a href="/posts/finops/" class="govuk-link {% if page.url == '/posts/finops/' %}govuk-!-font-weight-bold{% endif %}">FinOps</a></li>
+                  <li><a href="/posts/machine-learning-ai/" class="govuk-link {% if page.url == '/posts/machine-learning-ai/' %}govuk-!-font-weight-bold{% endif %}">Machine Learning & Artificial Intelligence</a></li>
+                  <li><a href="/posts/quantum-computing/" class="govuk-link {% if page.url == '/posts/quantum-computing/' %}govuk-!-font-weight-bold{% endif %}">Quantum Computing</a></li>
+                  <li><a href="/posts/software-engineering/" class="govuk-link {% if page.url == '/posts/software-engineering/' %}govuk-!-font-weight-bold{% endif %}">Software Engineering</a></li>
+                  <li><a href="/posts/faqs/" class="govuk-link {% if page.url == '/posts/faqs/' %}govuk-!-font-weight-bold{% endif %}">FAQs</a></li>
+                </ul>
+              </li>
+              <li class="govuk-body-s"><span class="govuk-!-color-secondary-text">Artificial Intelligence</span></li>
+              <li class="govuk-body-s"><span class="govuk-!-color-secondary-text">Digital and Data community-led learning</span></li>
+              <li class="govuk-body-s"><span class="govuk-!-color-secondary-text">Spotlight Webinars</span></li>
+            </ul>
+          </li>
+        </ul>
+      </nav>
+    </aside>
+  </div>
+</div>
