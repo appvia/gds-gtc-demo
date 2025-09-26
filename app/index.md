@@ -79,6 +79,35 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-full">
     <style>
+      .vendor-grid {
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 20px;
+        padding: 40px 0;
+      }
+      .vendor-item {
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        text-align: center;
+        padding: 20px;
+        min-height: 180px;
+      }
+      .vendor-logo-link {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        height: 80px;
+        width: 100%;
+        margin-bottom: 15px;
+      }
+      .vendor-logo {
+        max-width: 160px;
+        max-height: 70px;
+        width: auto;
+        height: auto;
+        object-fit: contain;
+      }
       @media (max-width: 768px) {
         .vendor-grid {
           grid-template-columns: repeat(2, 1fr) !important;
@@ -90,109 +119,109 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
         }
       }
     </style>
-    <div class="vendor-grid" style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 40px; padding: 20px 0;">
+    <div class="vendor-grid">
       
-      <div style="text-align: center;">
-        <a href="https://pages.awscloud.com/aws-partnership-government-digital-services-get-tech-certified.html" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-aws.png" alt="AWS" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://pages.awscloud.com/aws-partnership-government-digital-services-get-tech-certified.html" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-aws.png" alt="AWS" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Amazon Web Services</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://discover.confluent.io/0d989e" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-confluent.png" alt="Confluent" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://discover.confluent.io/0d989e" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-confluent.png" alt="Confluent" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Data streaming platform</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://events.databricks.com/training-uk-gov-get-tech-certified" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-databricks.png" alt="Databricks" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://events.databricks.com/training-uk-gov-get-tech-certified" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-databricks.png" alt="Databricks" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Data and AI platform</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://rsvp.withgoogle.com/events/google-cloud-get-tech-certified" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-google-cloud.png" alt="Google Cloud" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://rsvp.withgoogle.com/events/google-cloud-get-tech-certified" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-google-cloud.png" alt="Google Cloud" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Google Cloud Platform</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://www.hashicorp.com/campaign/24q4-emea-ukic-gds-skill-up-campaign" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-hashicorp.png" alt="HashiCorp" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://www.hashicorp.com/campaign/24q4-emea-ukic-gds-skill-up-campaign" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-hashicorp.png" alt="HashiCorp" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Infrastructure automation</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://livesend.ibm.com/i/V0WIDS6CLW7XFtll8MaWCjvN5___aqr7NVdOTc04PPLUSSIGNWqt34kEatTLdXgtfZoqX7PLUSSIGNfbgqlHaueW5QUQlZEfFTxIw8QTCzWkbXqIkygMKT___2apEEQUALSIGN" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-ibm.png" alt="IBM" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://livesend.ibm.com/i/V0WIDS6CLW7XFtll8MaWCjvN5___aqr7NVdOTc04PPLUSSIGNWqt34kEatTLdXgtfZoqX7PLUSSIGNfbgqlHaueW5QUQlZEfFTxIw8QTCzWkbXqIkygMKT___2apEEQUALSIGN" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-ibm.png" alt="IBM" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Cloud, AI and quantum</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://c4b-integration.com/elevate" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-meta.png" alt="Meta" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://c4b-integration.com/elevate" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-meta.png" alt="Meta" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Llama AI model training</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://www.microsoft.com/en-gb/business/get-tech-certified" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-microsoft.png" alt="Microsoft" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://www.microsoft.com/en-gb/business/get-tech-certified" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-microsoft.png" alt="Microsoft" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Azure cloud certifications</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://www.mongodb.com/resources/webinars/mongodb-and-google-public-sector/get-tech-certified-with-mongodb" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-mongo-db.png" alt="MongoDB" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://www.mongodb.com/resources/webinars/mongodb-and-google-public-sector/get-tech-certified-with-mongodb" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-mongo-db.png" alt="MongoDB" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Database certifications</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://education.oracle.com/ukgovtcddo" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-oracle-university.png" alt="Oracle" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://education.oracle.com/ukgovtcddo" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-oracle-university.png" alt="Oracle" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Cloud and database</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://view.salesforce.com/viewer/1a2333fe89b26207240d8bc21c3d13fe#os2loc68wo" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-salesforce.png" alt="Salesforce" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://view.salesforce.com/viewer/1a2333fe89b26207240d8bc21c3d13fe#os2loc68wo" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-salesforce.png" alt="Salesforce" class="vendor-logo">
         </a>
         <p class="govuk-body-s">CRM and platform</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://learning.servicenow.com/now/lxp/home" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-service-now.png" alt="ServiceNow" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://learning.servicenow.com/now/lxp/home" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-service-now.png" alt="ServiceNow" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Digital workflow</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://www.snowflake.com/en/lp/GDS_Get_Tech_Certified_Programme/" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-snowflake.png" alt="Snowflake" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://www.snowflake.com/en/lp/GDS_Get_Tech_Certified_Programme/" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-snowflake.png" alt="Snowflake" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Data platform</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://hartreetraining.stfc.ac.uk/moodle/local/hartree/index.php" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-ukri.png" alt="STFC Hartree Centre" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://hartreetraining.stfc.ac.uk/moodle/local/hartree/index.php" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-ukri.png" alt="STFC Hartree Centre" class="vendor-logo">
         </a>
         <p class="govuk-body-s">Advanced computing</p>
       </div>
       
-      <div style="text-align: center;">
-        <a href="https://wso2.com/training/certification/gov-uk/" target="_blank">
-          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-wso2.png" alt="WSO2" style="max-width: 200px; height: 100px; object-fit: contain;">
+      <div class="vendor-item">
+        <a href="https://wso2.com/training/certification/gov-uk/" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-wso2.png" alt="WSO2" class="vendor-logo">
         </a>
         <p class="govuk-body-s">API and integration</p>
       </div>
@@ -200,7 +229,6 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
     </div>
   </div>
 </div>
-
 ## How to get started
 
 1. Choose your certification area above
