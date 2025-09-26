@@ -1,5 +1,7 @@
 # Get Tech Certified - GOV.UK Eleventy Version
 
+[![Deploy to GitHub Pages](https://github.com/appvia/gds-gtc-demo/actions/workflows/deploy.yml/badge.svg)](https://github.com/appvia/gds-gtc-demo/actions/workflows/deploy.yml)
+
 A clean, modern implementation of the Get Tech Certified site using the GOV.UK Eleventy plugin.
 
 ## Benefits over WordPress HTML Export
