@@ -18,6 +18,16 @@ This offer is made possible through partnerships with 16 leading tech providers,
 
 Whether you are just starting out or looking to deepen your expertise, there is something here for you.
 
+## Real stories, real impact
+
+Thanks to last year's programme, Dionne made a successful career switch into digital. Her journey shows what is possible when you take that first step.
+
+<div class="govuk-inset-text">
+  <p>"One of the most rewarding milestones in my journey of working in Digital was completing the AWS Cloud Practitioner qualification under the Get Cloud Certified programme. This deepened my understanding of cloud computing principles and gave me the confidence to explore more advanced cloud technologies and their practical applications in the workplace."</p>
+  <p><strong>Dionne Hall</strong><br>
+  Assistant Software Licensing Manager – Integrated Corporate Services</p>
+</div>
+
 ## Who should get involved?
 
 Get Tech Certified is for:
