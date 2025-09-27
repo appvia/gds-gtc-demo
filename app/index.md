@@ -230,6 +230,13 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
         <p class="govuk-body-s">API and integration</p>
       </div>
       
+      <div class="vendor-item">
+        <a href="https://www.redhat.com/en/global/united-kingdom-ireland/solutions/public-sector-uk#red-hat-enablement" target="_blank" class="vendor-logo-link">
+          <img src="/vendors/vmdc-learn-get-tech-certified-vendor-red-hat.png" alt="Red Hat" class="vendor-logo">
+        </a>
+        <p class="govuk-body-s">Training and enablement</p>
+      </div>
+      
     </div>
   </div>
 </div>
