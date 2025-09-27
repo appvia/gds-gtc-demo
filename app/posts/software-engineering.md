@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Software Engineering
 description: During Autumn 2025, all civil and public servants can access 200+ free learning and certification pathways including in software engineering.
 date: 2025-09-25

@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Data
 description: During Autumn 2025, all civil and public servants can access 200+ free learning and certification pathways across key digital and data areas.
 date: 2025-09-25

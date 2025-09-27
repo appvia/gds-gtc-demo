@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Frequently Asked Questions
 description: Common questions about Get Tech Certified
 date: 2025-10-01

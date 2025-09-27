@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Quantum Computing
 description: During Autumn 2025, all civil and public servants can access 200+ free learning and certification pathways including in Quantum Computing.
 date: 2025-09-25
