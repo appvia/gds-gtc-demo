@@ -15,3 +15,11 @@ If you believe you qualify, but your email is not accepted, please contact [GetT
 | Vendor | Certification |
 |--------|--------------|
 | [IBM](https://livesend.ibm.com/i/V0WIDS6CLW7XFtll8MaWCjvN5___aqr7NVdOTc04PPLUSSIGNWqt34kEatTLdXgtfZoqX7PLUSSIGNfbgqlHaueW5QUQlZEfFTxIw8QTCzWkbXqIkygMKT___2apEEQUALSIGN) | FinOps Practitioner Certification |
+
+## Intermediate
+
+*No certifications currently available at this level*
+
+## Advanced
+
+*No certifications currently available at this level*
