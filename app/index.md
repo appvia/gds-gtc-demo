@@ -10,17 +10,39 @@ title: Get Tech Certified
         <details style="display: inline-block; position: relative;">
           <summary style="cursor: pointer; padding: 5px 10px; font-weight: bold;">Topics ▾</summary>
           <ul style="position: absolute; top: 100%; left: 0; background: white; border: 1px solid #b1b4b6; box-shadow: 0 2px 4px rgba(0,0,0,0.1); list-style: none; margin: 0; padding: 0; min-width: 280px; z-index: 1000;">
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#application-development" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Application Development</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#data-analysis-and-management" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Data Analysis and Management</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#cloud-and-infrastructure" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Cloud and Infrastructure</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#security-and-compliance" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Security and Compliance</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#project-and-service-management" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Project and Service Management</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#networking-and-systems" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Networking and Systems</a></li>
-            <li><a href="#business-analysis" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Business Analysis</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/software-engineering/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Application Development</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/data/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Data Analysis and Management</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cloud-platform/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Cloud and Infrastructure</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cyber-security/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Security and Compliance</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/finops/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Project and Service Management</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cloud-platform/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Networking and Systems</a></li>
+            <li><a href="/posts/data/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Business Analysis</a></li>
           </ul>
         </details>
       </li>
-      <li><a href="#vendors" style="text-decoration: none; color: #0b0c0c; font-weight: bold; padding: 5px 10px;">Vendors</a></li>
+      <li>
+        <details style="display: inline-block; position: relative;">
+          <summary style="cursor: pointer; padding: 5px 10px; font-weight: bold;">Vendors ▾</summary>
+          <ul style="position: absolute; top: 100%; left: 0; background: white; border: 1px solid #b1b4b6; box-shadow: 0 2px 4px rgba(0,0,0,0.1); list-style: none; margin: 0; padding: 0; min-width: 220px; z-index: 1000;">
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://aws.amazon.com/training/government/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">AWS</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.confluent.io/training/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Confluent</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.databricks.com/learn/training/certification-program/get-databricks-certified-for-uk-public-sector" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Databricks</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://publicsector.googlecloudchamp.com/s/cwc-catalog" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Google Cloud</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.hashicorp.com/events/webinars/exclusive-free-hashicorp-certified-terraform-associate-training-bootcamp" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">HashiCorp</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://ibm.biz/GTC-UK" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">IBM</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://ai.meta.com/llama/llama-impact-innovation-awards/uk-public-sector-ai-training-programme/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Meta</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://aka.ms/ukg-esiskillsforall" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Microsoft</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.mongodb.com/products/training-certification/mongodb-for-public-sector" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">MongoDB</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://mylearn.oracle.com/ou/component/-/108462/185914" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Oracle</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://trailhead.salesforce.com/en/career-path/administrator/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Salesforce</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://learning.servicenow.com/now/lxp/home" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">ServiceNow</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.snowflake.com/en/lp/GDS_Get_Tech_Certified_Programme/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Snowflake</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://hartreetraining.stfc.ac.uk/moodle/local/hartree/index.php" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">STFC Hartree Centre</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://wso2.com/training/certification/gov-uk/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">WSO2</a></li>
+            <li><a href="https://www.redhat.com/en/global/united-kingdom-ireland/solutions/public-sector-uk#red-hat-enablement" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Red Hat</a></li>
+          </ul>
+        </details>
+      </li>
       <li><a href="/posts/faqs/" style="text-decoration: none; color: #0b0c0c; font-weight: bold; padding: 5px 10px;">FAQs</a></li>
     </ul>
   </div>
