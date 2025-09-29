@@ -3,6 +3,29 @@ layout: page
 title: Get Tech Certified
 ---
 
+<nav style="background: #f3f2f1; border-bottom: 1px solid #b1b4b6; margin: -30px -30px 30px -30px;">
+  <div class="govuk-width-container">
+    <ul style="list-style: none; margin: 0; padding: 15px 0; display: flex; gap: 30px; align-items: center;">
+      <li>
+        <details style="display: inline-block; position: relative;">
+          <summary style="cursor: pointer; padding: 5px 10px; font-weight: bold;">Topics ▾</summary>
+          <ul style="position: absolute; top: 100%; left: 0; background: white; border: 1px solid #b1b4b6; box-shadow: 0 2px 4px rgba(0,0,0,0.1); list-style: none; margin: 0; padding: 0; min-width: 280px; z-index: 1000;">
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#application-development" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Application Development</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#data-analysis-and-management" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Data Analysis and Management</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#cloud-and-infrastructure" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Cloud and Infrastructure</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#security-and-compliance" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Security and Compliance</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#project-and-service-management" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Project and Service Management</a></li>
+            <li style="border-bottom: 1px solid #f3f2f1;"><a href="#networking-and-systems" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Networking and Systems</a></li>
+            <li><a href="#business-analysis" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Business Analysis</a></li>
+          </ul>
+        </details>
+      </li>
+      <li><a href="#vendors" style="text-decoration: none; color: #0b0c0c; font-weight: bold; padding: 5px 10px;">Vendors</a></li>
+      <li><a href="/posts/faqs/" style="text-decoration: none; color: #0b0c0c; font-weight: bold; padding: 5px 10px;">FAQs</a></li>
+    </ul>
+  </div>
+</nav>
+
 <div style="border-left: 10px solid #ff6900; padding: 40px; margin-bottom: 30px; background-color: #f8f8f8;">
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-third">
@@ -74,7 +97,7 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
   <a href="/posts/software-engineering/" class="govuk-button govuk-button--secondary">Software Engineering</a>
 </div>
 
-### By vendor
+### By vendor <span id="vendors"></span>
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-full">
