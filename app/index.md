@@ -81,10 +81,10 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
     <style>
       .vendor-grid {
         display: grid;
-        grid-template-columns: repeat(3, 1fr);
-        gap: 60px 40px;
-        padding: 40px 20px;
-        max-width: 1000px;
+        grid-template-columns: repeat(4, 1fr);
+        gap: 40px 30px;
+        padding: 30px 15px;
+        max-width: 1200px;
         margin: 0 auto;
       }
       .vendor-item {
