@@ -286,6 +286,7 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
     </div>
   </div>
 </div>
+
 ## How to get started
 
 1. Choose your certification area above
