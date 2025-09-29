@@ -287,7 +287,7 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
   </div>
 </div>
 
-## How to get started
+<h2 class="govuk-heading-l">How to get started</h2>
 
 1. Choose your certification area above
 2. Select a vendor and certification level (Beginner, Intermediate, or Advanced)
@@ -296,6 +296,6 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
 
 If you believe you qualify but your email is not accepted, please contact [GetTechCertified@dsit.gov.uk](mailto:GetTechCertified@dsit.gov.uk)
 
-## Need help?
+<h2 class="govuk-heading-l">Need help?</h2>
 
 Visit our [Frequently Asked Questions](/posts/faqs/) page for more information.
