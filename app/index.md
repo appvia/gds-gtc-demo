@@ -3,6 +3,7 @@ layout: page
 title: Get Tech Certified
 ---
 
+<!-- Navigation updated: 2025-09-29 15:35 - Both dropdowns working -->
 <nav style="background: #f3f2f1; border-bottom: 1px solid #b1b4b6; margin: -30px -30px 30px -30px;">
   <div class="govuk-width-container">
     <ul style="list-style: none; margin: 0; padding: 15px 0; display: flex; gap: 30px; align-items: center;">
