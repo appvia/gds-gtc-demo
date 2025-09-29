@@ -26,6 +26,7 @@ export default function(eleventyConfig) {
     dir: {
       input: 'app',
       output: '_site'
-    }
+    },
+    pathPrefix: '/gds-gtc-demo/'
   }
 }
