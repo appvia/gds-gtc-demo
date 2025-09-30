@@ -3,7 +3,6 @@ homepage: true
 layout: page
 title: Get Tech Certified
 ---
-
 <div style="border-left: 10px solid #ff6900; padding: 40px; margin-bottom: 30px; background-color: #f8f8f8;">
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-third">
@@ -66,13 +65,9 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
 ### By topic
 
 <div class="govuk-button-group">
-  <a href="/posts/cloud-platform/" class="govuk-button govuk-button--secondary">Cloud & Platform Technologies</a>
-  <a href="/posts/cyber-security/" class="govuk-button govuk-button--secondary">Cyber Security</a>
-  <a href="/posts/data/" class="govuk-button govuk-button--secondary">Data</a>
-  <a href="/posts/finops/" class="govuk-button govuk-button--secondary">FinOps</a>
-  <a href="/posts/machine-learning-ai/" class="govuk-button govuk-button--secondary">Machine Learning & Artificial Intelligence</a>
-  <a href="/posts/quantum-computing/" class="govuk-button govuk-button--secondary">Quantum Computing</a>
-  <a href="/posts/software-engineering/" class="govuk-button govuk-button--secondary">Software Engineering</a>
+  {% for page in collections.topic | includes("data.theme", "Topics") %}
+    <a href="{{ page.url }}" class="govuk-button govuk-button--secondary">{{ page.data.title }}</a>
+  {% endfor %}
 </div>
 
 ### By vendor <span id="vendors"></span>
