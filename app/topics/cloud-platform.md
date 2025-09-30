@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Cloud & Platform Technologies
 description: Available certification pathways for cloud and platform technologies
-date: 2025-10-01
+theme: Topics
 ---
 
 Available certification pathways are listed here under Beginner, Intermediate, and Advanced.

@@ -1,58 +1,13 @@
 ---
+homepage: true
 layout: page
 title: Get Tech Certified
 ---
 
-<!-- Navigation updated: 2025-09-29 15:35 - Both dropdowns working -->
-<nav style="background: #f3f2f1; border-bottom: 1px solid #b1b4b6; margin: -30px -30px 30px -30px;">
-  <div class="govuk-width-container">
-    <ul style="list-style: none; margin: 0; padding: 15px 0; display: flex; gap: 30px; align-items: center;">
-      <li>
-        <details style="display: inline-block; position: relative;">
-          <summary style="cursor: pointer; padding: 5px 10px; font-weight: bold;">Topics ▾</summary>
-          <ul style="position: absolute; top: 100%; left: 0; background: white; border: 1px solid #b1b4b6; box-shadow: 0 2px 4px rgba(0,0,0,0.1); list-style: none; margin: 0; padding: 0; min-width: 280px; z-index: 1000;">
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/software-engineering/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Application Development</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/data/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Data Analysis and Management</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cloud-platform/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Cloud and Infrastructure</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cyber-security/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Security and Compliance</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/finops/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Project and Service Management</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="/posts/cloud-platform/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Networking and Systems</a></li>
-            <li><a href="/posts/data/" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Business Analysis</a></li>
-          </ul>
-        </details>
-      </li>
-      <li>
-        <details style="display: inline-block; position: relative;">
-          <summary style="cursor: pointer; padding: 5px 10px; font-weight: bold;">Vendors ▾</summary>
-          <ul style="position: absolute; top: 100%; left: 0; background: white; border: 1px solid #b1b4b6; box-shadow: 0 2px 4px rgba(0,0,0,0.1); list-style: none; margin: 0; padding: 0; min-width: 220px; z-index: 1000;">
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://pages.awscloud.com/aws-partnership-government-digital-services-get-tech-certified.html" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">AWS</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://discover.confluent.io/0d989e" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Confluent</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://events.databricks.com/training-uk-gov-get-tech-certified" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Databricks</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://rsvp.withgoogle.com/events/google-cloud-get-tech-certified" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Google Cloud</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.hashicorp.com/campaign/24q4-emea-ukic-gds-skill-up-campaign" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">HashiCorp</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://livesend.ibm.com/i/V0WIDS6CLW7XFtll8MaWCjvN5___aqr7NVdOTc04PPLUSSIGNWqt34kEatTLdXgtfZoqX7PLUSSIGNfbgqlHaueW5QUQlZEfFTxIw8QTCzWkbXqIkygMKT___2apEEQUALSIGN" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">IBM</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://c4b-integration.com/elevate" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Meta</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.microsoft.com/en-gb/business/get-tech-certified" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Microsoft</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.mongodb.com/resources/webinars/mongodb-and-google-public-sector/get-tech-certified-with-mongodb" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">MongoDB</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://education.oracle.com/ukgovtcddo" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Oracle</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://view.salesforce.com/viewer/1a2333fe89b26207240d8bc21c3d13fe#os2loc68wo" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Salesforce</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://learning.servicenow.com/now/lxp/home" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">ServiceNow</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://www.snowflake.com/en/lp/GDS_Get_Tech_Certified_Programme/" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Snowflake</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://hartreetraining.stfc.ac.uk/moodle/local/hartree/index.php" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">STFC Hartree Centre</a></li>
-            <li style="border-bottom: 1px solid #f3f2f1;"><a href="https://wso2.com/training/certification/gov-uk/" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">WSO2</a></li>
-            <li><a href="https://www.redhat.com/en/global/united-kingdom-ireland/solutions/public-sector-uk#red-hat-enablement" target="_blank" style="display: block; padding: 10px 15px; text-decoration: none; color: #0b0c0c;">Red Hat</a></li>
-          </ul>
-        </details>
-      </li>
-      <li><a href="/posts/faqs/" style="text-decoration: none; color: #0b0c0c; font-weight: bold; padding: 5px 10px;">FAQs</a></li>
-    </ul>
-  </div>
-</nav>
-
 <div style="border-left: 10px solid #ff6900; padding: 40px; margin-bottom: 30px; background-color: #f8f8f8;">
   <div class="govuk-grid-row">
     <div class="govuk-grid-column-one-third">
-      <img src="/get-tech-certified-logo.png" alt="Get Tech Certified logo" style="width: 100%; max-width: 200px; display: block; margin: 0 auto;">
+      <img src="/assets/get-tech-certified-logo.png" alt="Get Tech Certified logo" style="width: 100%; max-width: 200px; display: block; margin: 0 auto;">
     </div>
     <div class="govuk-grid-column-two-thirds">
       <p class="govuk-body" style="margin-top: 0; font-size: 1.1rem; line-height: 1.5;">
@@ -75,7 +30,7 @@ Thanks to last year's programme, Dionne made a successful career switch into dig
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-full">
     <video controls width="100%" style="max-width: 600px; margin-bottom: 20px;">
-      <source src="/vmdc-learn-get-tech-certified-testimony.mp4" type="video/mp4">
+      <source src="/assets/vmdc-learn-get-tech-certified-testimony.mp4" type="video/mp4">
       Your browser does not support the video tag.
     </video>
   </div>
@@ -104,7 +59,7 @@ Don't miss this chance to boost your digital skills, earn industry-recognised ce
 
 <div class="govuk-grid-row">
   <div class="govuk-grid-column-full" style="text-align: center; margin: 30px 0;">
-    <img src="/get-tech-certified-logo.png" alt="Get Tech Certified logo with orange connecting dots" style="max-width: 500px; width: 100%; height: auto;">
+    <img src="/assets/get-tech-certified-logo.png" alt="Get Tech Certified logo with orange connecting dots" style="max-width: 500px; width: 100%; height: auto;">
   </div>
 </div>
 

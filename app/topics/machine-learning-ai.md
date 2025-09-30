@@ -1,8 +1,7 @@
 ---
-layout: page
 title: Machine Learning & Artificial Intelligence
 description: During Autumn 2025, all civil and public servants can access 200+ free learning and certification pathways including in Machine Learning and AI.
-date: 2025-09-25
+theme: Topics
 ---
 
 Available certification pathways are listed here under Beginner, Intermediate, and Advanced.

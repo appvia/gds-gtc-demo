@@ -2,9 +2,7 @@
 layout: page
 title: Frequently Asked Questions
 description: Common questions about Get Tech Certified
-date: 2025-10-01
 ---
-
 ## Who is eligible for Get Tech Certified?
 
 All civil and public servants across the UK are eligible to participate in the Get Tech Certified programme. This includes:
